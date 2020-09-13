@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.f9c67ae1.chunk.css",
-    "main.js": "/static/js/main.eae75575.chunk.js",
-    "main.js.map": "/static/js/main.eae75575.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.57797527.chunk.css": "/static/css/2.57797527.chunk.css",
-    "static/js/2.6b49d943.chunk.js": "/static/js/2.6b49d943.chunk.js",
-    "static/js/2.6b49d943.chunk.js.map": "/static/js/2.6b49d943.chunk.js.map",
+    "main.css": "/static/css/main.5f361e03.chunk.css",
+    "main.js": "/static/js/main.366a212e.chunk.js",
+    "main.js.map": "/static/js/main.366a212e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c611b372.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c611b372.js.map",
+    "static/js/2.63694e9e.chunk.js": "/static/js/2.63694e9e.chunk.js",
+    "static/js/2.63694e9e.chunk.js.map": "/static/js/2.63694e9e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8ab872bd5984b367b74d4471bbfed098.js": "/precache-manifest.8ab872bd5984b367b74d4471bbfed098.js",
+    "precache-manifest.0d62d93b752b7a1c45fcc6e6d4a9750e.js": "/precache-manifest.0d62d93b752b7a1c45fcc6e6d4a9750e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.57797527.chunk.css.map": "/static/css/2.57797527.chunk.css.map",
-    "static/css/main.f9c67ae1.chunk.css.map": "/static/css/main.f9c67ae1.chunk.css.map",
-    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
-  }
+    "static/css/main.5f361e03.chunk.css.map": "/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.63694e9e.chunk.js.LICENSE.txt": "/static/js/2.63694e9e.chunk.js.LICENSE.txt",
+    "static/media/ady.png": "/static/media/ady.98dbddb0.png",
+    "static/media/down-arrows.a84d0f79.svg": "/static/media/down-arrows.a84d0f79.svg",
+    "static/media/flower.png": "/static/media/flower.fa48095e.png",
+    "static/media/github.eaa00bc5.svg": "/static/media/github.eaa00bc5.svg",
+    "static/media/instagram.1369f050.svg": "/static/media/instagram.1369f050.svg",
+    "static/media/linkedin.1d491631.svg": "/static/media/linkedin.1d491631.svg",
+    "static/media/whatsapp.ba84e45d.svg": "/static/media/whatsapp.ba84e45d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c611b372.js",
+    "static/js/2.63694e9e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.366a212e.chunk.js"
+  ]
 }
